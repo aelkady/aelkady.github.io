@@ -67,8 +67,16 @@ p.subheader {
   margin-right: 2vw;
 }
 
+.contact-container-toptal {
+  width: 5.25vw;
+}
+
 .contact-container-youtube {
   width: 11vw;
+}
+
+.contact-container-substack {
+  width: 6.5vw;
 }
 
 h1 {
